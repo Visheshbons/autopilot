@@ -6,4 +6,5 @@ I am planning to use BeamNG.tech as a training platform.
 ## Credits:
 
 * **BeamNG.tech** for accepting my application, and allowing me to use your simulator as a testing enviroment.
-![BeamNG.tech Logo](https://beamng.tech/wp-content/uploads/2021/04/beamngtech_logo.png)
+
+![BeamNG.tech Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaAoNSUnYZvwugdQdLNWk5BdWcEPRRCDp4nQ&s)
