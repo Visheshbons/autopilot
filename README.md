@@ -5,7 +5,7 @@ I am planning to use BeamNG.tech as a training platform.
 
 ## Dependancies
 
-* `beamngpy`
+* `py -m pip install beamngpy`
 
 ## Credits:
 
