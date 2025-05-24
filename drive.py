@@ -7,7 +7,7 @@ bng = BeamNGpy(
     user=r'C:\Users\Sivar\Desktop\BeamNG.tech.v0.35.5.0\userFolder'
 )
 
-bng.open()
+bng.open(['-headless', '-tcom'])
 
 scenario = Scenario('west_coast_usa', 'example')
 vehicle = Vehicle('ego_vehicle', model='etk800', license='PYTHON')
