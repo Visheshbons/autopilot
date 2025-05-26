@@ -2,6 +2,9 @@
 
 This is a full self-driving car program, using real-world data to make desisions in real time.
 I am planning to use BeamNG.tech as a training platform.
+I will use Behavioral Cloning as a training program. This is that training program.
+The collected data and the Trained AI will not be open-source.
+However, this training algorithm will be open-source, and free to use.
 
 ## Dependancies
 
